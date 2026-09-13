@@ -21,17 +21,21 @@ Su objetivo es optimizar la alimentación en rangos de tiempo y pausas, mejorand
    flutter run
    
 ## 📂 Estructura del Proyecto
+```
    * lib/ → Código principal de la aplicación (ej. main.dart)
-   
+
    * android/, ios/, windows/, macos/, linux/ → Configuración para cada plataforma
    
    * pubspec.yaml → Configuración de dependencias
 
    * test/ → Pruebas unitarias
+```
    
 ## 🛠️ Tecnologías usadas
-   -- Flutter
-   -- Dart
-   -- Multiplataforma: Android, iOS, Web y Desktop
+```
+   ## Flutter
+   ## Dart
+   ## Multiplataforma: Android, iOS, Web y Desktop
+```
 ## AUTOR
 Marco .B
